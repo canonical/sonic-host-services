@@ -61,7 +61,7 @@ setup(
         'pytest',
         'pyfakefs',
         'sonic-py-common',
-        'deepdiff==6.2.2',
+        'deepdiff==8.6.1',
         'psutil'
     ],
     extras_require = {
@@ -70,7 +70,7 @@ setup(
             'pytest',
             'pyfakefs',
             'sonic-py-common',
-            'deepdiff==6.2.2'
+            'deepdiff==8.6.1'
         ]
     },
     classifiers = [
